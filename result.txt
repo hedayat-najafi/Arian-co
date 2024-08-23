@@ -1,0 +1,6 @@
+2024-08-19 07:45:27 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]
+2024-08-19 07:45:34 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]
+2024-08-19 07:45:35 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]
+2024-08-19 07:45:37 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]
+2024-08-19 07:45:42 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]
+2024-08-19 07:47:44 AVG = [248000]  sugest:[  store: Meghdad , price: 245000 , city : Zanjan , shipping: 5000]

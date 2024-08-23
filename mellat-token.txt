@@ -1,0 +1,7 @@
+{
+"result": {
+"data": {
+"access_token": "dry564tygrdhfyu8764evhrt876uv536yv35ygv"
+}
+}
+}
