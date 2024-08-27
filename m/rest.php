@@ -24,12 +24,13 @@ class myRestAPI
     public $codeMelli;
 
     public function __construct()
-    {
-        if (isset($_GET['codeMelli']) && $_GET['codeMelli']) {
-            $this->codeMelli = strtolower(htmlspecialchars($_REQUEST['codeMelli']));
+    { 
+       
+    if (isset($_GET['codemelli'])) {
+            $this->codeMelli = strtolower(htmlspecialchars($_GET['codemelli']));
             $this->Select();
         } else {
-            $this->response(null, 400, "Invalid Request , Please set codeMelli.");
+            $this->response(null, 400, "Invalid Request , Please set codeMelli. !");
         }
     }
     static function response($data, $response_code, $response_desc)
